@@ -1,6 +1,6 @@
 #include <iostream>
 
-
+//Iniciando novos estudos
 int main()
 {
 	setlocale(LC_ALL, "PORTUGUESE");
